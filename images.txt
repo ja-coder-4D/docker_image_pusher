@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #mysql:latest
 #postgres:latest
-ollama/ollama
+#ollama/ollama
+yandex/clickhouse-server
