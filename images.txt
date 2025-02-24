@@ -9,6 +9,6 @@
 #ollama/ollama
 #yandex/clickhouse-server
 kibana:8.2.2
-elasticsearch:8.2.2
-mysql:8.0.4
+#elasticsearch:8.2.2
+#mysql:8.0.4
 
